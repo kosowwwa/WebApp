@@ -1,0 +1,15 @@
+@import 'custom.scss';
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+body {
+    background-color: #101010;
+    color: gray;
+}
+
+.divider {
+    width: 100%;
+    height: 1px;
+    background: rgba(0, 0, 0, .6);
+    margin: 20px 0;
+}
