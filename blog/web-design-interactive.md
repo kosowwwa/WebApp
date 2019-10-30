@@ -6,7 +6,7 @@ excerpt: Kosowwwa Digital Agency is passionate about an intuitive user experienc
   Strategy, and Design methodologies…
 date: 2019-04-22T17:00:00.000+00:00
 author: Kosowwwa LLC
-image: "/uploads/ui.svg"
+image: "/uploads/monitor.svg"
 
 ---
 ##### UX Design Agency
