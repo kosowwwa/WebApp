@@ -4,8 +4,10 @@
 
     <h2 class="mb-2 font-weight-lighter text-white text-center">COME TO US WITH A VISION. WE’LL HELP YOU CRAFT IT.</h2>
     <h5 class="font-weight-normal text-gray pt-2  text-center">We build digital product, from idea to design, development to marketing & PR to post launch support</h5>
-    <button type="button" class="btn btn-primary mt-3 btn-block">Get Free Consultation</button>
-
+    <g-link to="/contact">
+      <button type="button" class="btn btn-primary mt-3 btn-block">Get Free Consultation</button>
+    </g-link>
+    
     <div class="box">
       <span class="oi oi-browser"></span>
       <h4 class="mt-4">Domains</h4>
