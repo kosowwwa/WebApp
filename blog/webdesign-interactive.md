@@ -1,41 +1,26 @@
 ---
-title: Web Design / Interactive
-excerpt: The Internet is an ever changing environment that demands that you keep up with the latest and greatest communication platforms. Your website is the first impression for your company and where customers make the decision to do business with you, decide what products to buy…
-date: 2019-04-22 17:00:00 +0000
+title: UI / UX
+excerpt: Kosowwwa Digital Agency is passionate about an intuitive user experience
+  because the user is ultimately the one who is the target. We focus on the wants
+  and needs of the user to create stunning solutions through our experience in Research,
+  Strategy, and Design methodologies…
+date: 2019-04-22T17:00:00.000+00:00
 author: Kosowwwa LLC
-image: "/uploads/monitor.svg"
+image: "/uploads/ui.svg"
+
 ---
+##### UX Design Agency
 
-##### Web Design Company
+Kosowwwa Digital Agency is passionate about an intuitive user experience because the user is ultimately the one who is the target. We focus on the wants and needs of the user to create stunning solutions through our experience in Research, Strategy, and Design methodologies.
 
-The best web design companies understand that your website is the first impression for your company and where customers make the decision to do business with you, decide what products to buy, learn about events that are scheduled, who to consult, and what information is most important to them. It is about giving the user an exceptional user experience.
+**Research**
 
-Kosowwwa Digital Agency provides custom web site designs that by far, stand out from the rest of the competitors. We provide more than just a lavish front-end design. We also build everything with an intuitive architecture that guides the user through the flow of actions you want them to follow. Your website needs to be intelligently designed to stay consistent with your brand and represent your business in a professional way because your website is always communicating.
+By researching users within the guidelines of their environment, and collecting important information about the user to create a well-informed view of the visual experience. Our in-depth product research grows insights and brings light additional strategies. This ensures ease of use of the design, and reduces the need for expensive re-work before an investment is made in development. Ultimately, our methods enable us to innovate empathetically and remain focused on the user.
 
-Kosowwwa Digital Agency design specialists and development teams are expertly experienced in creating and enhancing websites designed to showcase your business while helping to maximize your return on investment.
+**Strategy**
 
-Just a few of our custom web design specialties we offer:
+Equipped with our research findings, we are able to plan with our clients the most effective path to get to market. Together, we look beyond the boundaries of thinking in terms of features and functions and launch into considering the real holistic needs of the people who will use the product. We employ a combination of strategy tools that can vary according to specific project and client needs. The result is that we establish meaningful user experience strategies for our clients, success metrics, deliverables, and long-term governance.
 
--   Website Design & Development
--   e-Commerce design and development
--   Interactive Design
--   Information Architecture
--   Usability Testing
--   Form Integrations: Contact/Order/Schedule Service/Request
--   Content Management Systems (CMS)
--   Mobile / Responsive Website Designs
--   Web Hosting
--   Web Analytics
--   E-Mail Marketing
--   Mobile Marketing
--   Branding Strategy
--   Videos and Video Integration
--   Blogs, FAQ’s, Coupons, Resource Libraries
--   Content Writing Services
--   Photo Gallery Systems
--   Calendar and Event Scheduling Systems
--   Intranets and Private/Secure Logins
--   Flash Presentations
--   Spring cleaning on your code
--   Copywriting
--   Product Marketing
+**Design**
+
+We create digital experiences for any platform that reflect your brand, vision, and end-user needs. Taking the Research and Strategy findings, we start the iterative design process. Through a variety of collaborative techniques we spark not only the creation of individual screens but also generate a consistent and reusable design language as we progress through interaction and visual design. Throughout all of this, we keep the user at the center of every decision. This allows the synthesis of ideas to encapsulate the entire user experience, beyond a single isolated product interaction, and keep it as a set of actions, perceptions, feelings, and emotions that begins the moment a user wakes up to the moment they go to sleep at night.
