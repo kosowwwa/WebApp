@@ -1,8 +1,10 @@
 <template>
   <Layout>
-    <h1 class="mb-4">Contact</h1>
+    <h1 class="mb-4 font-weight-lighter ">Contact</h1>
+    <p class="pb-5">
+      Kosowwwa Digital Agency customer support is available free of charge. Connection charges can vary when calling from outside the area, abroad or from a mobile phone, depending on your specific phone plan.
+    </p>
     <div>
-      <img class="contact-image mb-4" src="../../uploads/email.svg" />
       <b-form 
         name="contact"
         method="post"
