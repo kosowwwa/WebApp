@@ -1,5 +1,5 @@
 ---
-title: UI / UX
+title: Web Design / Interactive
 excerpt: Kosowwwa Digital Agency is passionate about an intuitive user experience
   because the user is ultimately the one who is the target. We focus on the wants
   and needs of the user to create stunning solutions through our experience in Research,
